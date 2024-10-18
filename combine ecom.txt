@@ -1,0 +1,1394 @@
+home page:
+<html> 
+<head>
+    <title>Home - Cake Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="C:/Users/Anjali/Downloads/logo.jpeg" alt="Cake Shop Logo">
+        </div>
+        <nav><h3>Sweet Bites</h3>
+            <a class="active" href="index.html">Home</a>
+            <a href="product.html">Products</a>
+            <a href="about.html">About us</a>
+	    <a href="cart.html">Cart</a>
+            <a href="custom.html">Special Order</a>
+	    <a href="contact.html">Contact Us</a>
+            
+        </nav>
+    </header>
+<br> 
+	<marquee behavior="scroll" bgcolor="#ccc" direction="left" scrollamount="5" width="100%" heigth="200px">
+    🎂 Welcome to Sweet Bites Bakery! 🎉 Indulge in our scrumptious cakes, pastries, and treats made with love and the finest ingredients. Your perfect cake awaits! 🍰
+</marquee>
+	<main>
+	<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/A20.jpg" width="100%" height="450px" alt="Cake Shop Logo">
+	</main>   
+	<feature class="section-p1">
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f1.jpg" alt="free shipping">
+		<center><h6>Free Shipping</h6></center>
+		</div>
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f2.jpg" alt="free shipping">
+		<center><h6>Online Order</h6></center>
+		</div>
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f3.jpg" alt="free shipping">
+		<center><h6>Save Money</h6></center>
+		</div>
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f4.jpg" alt="free shipping">
+		<center><h6>24/7 Service</h6></center>
+		</div>
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f5.jpg" alt="free shipping" >
+		<center><h6>Happy Customer</h6></center>
+		</div>
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f4.jpg" alt="free shipping">
+		<center><h6>Happy Customer</h6></center>
+		</div>
+
+	</feature>
+	<product1 class="section-p1">
+		<h2>Our Regulars</h2>
+		<p>We Have different types of flavour & Cakes</p>
+		<div class="pro-container">
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/pineapple.jpg" alt="pineapple">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Pineapple Cake</h5>
+				<h4>Rs:300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Dark Loaded.jpg" alt="Dark Loaded">
+			<div class="des">
+				<span>Chocolate</span>
+				<h5>Dark Loaded</h5>
+				<h4>Rs:450</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Choco Crackle.jpg" alt="Choco Crackle">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Choco Crackle</h5>
+				<h4>Rs:350</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Red valvet Cheese.jpg" alt="Red Valvet Cheese">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Red Valvet Cheese</h5>
+				<h4>Rs:400</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Strawberry choco.jpg" alt="Strawberry">
+			<div class="des">
+				<span>Chocolate flavoured</span>
+				<h5>Strawberry choco Cake</h5>
+				<h4>Rs:350</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Fresh mango.jpeg" alt="Fresh mango">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Fresh mango</h5>
+				<h4>Rs:450</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Black forest.png" alt="Black forest">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Black forest</h5>
+				<h4>Rs:300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Creamy choco.jpg" alt="Creamy choco">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Creamy choco</h5>
+				<h4>Rs:300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+		</div>
+	<banner>
+	<div class="section-m1">
+		<h4>Upto <span>50% Off</span> - On All The Flavoured Cakes & Desserts</h2>
+		<button class="normal">Exlore More</button>
+	</div>
+	</product1><br>
+	<center>
+	<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/A7.jpeg" width="90%" height="90%"alt="ads">
+	</center>
+	<product1 class="section-p1">
+		<h2>Our Specials Made</h2>
+		<p>Here are some special order cakes made by Sweet Bites</p>
+		<div class="pro-container">
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C1.png" alt="pineapple">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:2200</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C2.jpg" alt="Dark Loaded">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1900</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C3.jpg" alt="Choco Crackle">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1800</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C4.jpg" alt="Red Valvet Cheese">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1600</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C5.jpg" alt="Strawberry">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1400</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C6.jpg" alt="Fresh mango">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1400</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C7.jpeg" alt="Black forest">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1400</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C8.jpg" alt="Creamy choco">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+		</div>
+	</product1>
+	<newsletter class="section-p1 section-m1">
+	<div class="newstext">
+	<h4>Sign Up For Full Access</h4>
+	<p>Get E-mail updates about our latest shop and <span>Special Offers</span></p>
+	</div>
+	<div class="form">
+		<input type="text" placeholder="Your Email Address">
+		<button class="normal">Sign Up</button>
+	</div>
+	</div>
+	<footer class="section-p1">
+		<div class="col">
+		<img src="C:/Users/Anjali/Downloads/logo.jpeg" width="100px" height="100px" alt="Cake Shop Logo">
+	<h4>Contact</h4>
+	<p><strong>Address:</strong>Virar West,near viva college</p>
+	<p><strong>phone:</strong>+01 2222 333 444</p>
+	<p><strong>Open Hours:</strong>24/7hrs</p>
+	<div class="folow">
+		<h4>Follow us</h4>
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/follow.jpeg" width="200px" height="50px" alt="">
+
+		<div class="icon">
+		<i class="fab fa-facebook-f"></i>
+		<i class="fab fa-twitter"></i>
+		<i class="fab fa-instagram"></i>
+		<i class="fab fa-pinterest-p"></i>
+		<i class="fab fa-youtube"></i>
+	        <p>&copy; Sweet Bites. All rights reserved.</p>
+		</div>
+	</div>
+	</div>
+	</footer>
+	<script src="script.js"></script>
+</body>
+</html>
+product page:
+<html>
+<head>
+    <title>Products - Cake Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="C:/Users/Anjali/Downloads/logo.jpeg" alt="Cake Shop Logo">
+        </div>
+            <nav><h3>Sweet Bites</h3>
+            <a href="index.html">Home</a>
+            <a class="active" href="product.html">Products</a>
+            <a href="about.html">About us</a>
+	    <a href="cart.html">Cart</a>
+            <a href="custom.html">Special Order</a>
+	    <a href="contact.html">Contact Us</a>
+        </nav>
+    </header>
+    	<main>
+		<H1>Our Best And Most Loved Cakes</H1>
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/A21.jpg" width="100%" height="400px" alt="Cake Shop Logo">
+	</main>
+	<product1 class="section-p1">
+		<h2>Our Regular</h2>
+		<p>We Have different types of flavour & Cakes</p>
+		<div class="pro-container">
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/pineapple.jpg" alt="pineapple">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Pineapple Cake</h5>
+				<h4>Rs:300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Dark Loaded.jpg" alt="Dark Loaded">
+			<div class="des">
+				<span>Chocolate</span>
+				<h5>Dark Loaded</h5>
+				<h4>Rs:450</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Choco Crackle.jpg" alt="Choco Crackle">
+			<div class="des" onclick="window.location.href='sproduct.html';">
+				<span>flavour</span>
+				<h5>Choco Crackle</h5>
+				<h4>Rs:350</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Red valvet Cheese.jpg" alt="Red Valvet Cheese">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Red Valvet Cheese</h5>
+				<h4>Rs:400</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Strawberry choco.jpg" alt="Strawberry">
+			<div class="des">
+				<span>Chocolate flavoured</span>
+				<h5>Strawberry choco Cake</h5>
+				<h4>Rs:350</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Fresh mango.jpeg" alt="Fresh mango">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Fresh mango</h5>
+				<h4>Rs:450</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Black forest.png" alt="Black forest">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Black forest</h5>
+				<h4>Rs:300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Creamy choco.jpg" alt="Creamy choco">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Creamy choco</h5>
+				<h4>Rs:300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Creamy choco.jpg" alt="Creamy choco">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Creamy choco</h5>
+				<h4>Rs:300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+		<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Dark Loaded.jpg" alt="Dark Loaded">
+			<div class="des">
+				<span>Chocolate</span>
+				<h5>Dark Loaded</h5>
+				<h4>Rs:450</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Choco Crackle.jpg" alt="Choco Crackle">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Choco Crackle</h5>
+				<h4>Rs:350</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Red valvet Cheese.jpg" alt="Red Valvet Cheese">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Red Valvet Cheese</h5>
+				<h4>Rs:400</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/pineapple.jpg" alt="pineapple">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Pineapple Cake</h5>
+				<h4>Rs:300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Dark Loaded.jpg" alt="Dark Loaded">
+			<div class="des" onclick="window.location.href='sproduct.html';">
+				<span>Chocolate</span>
+				<h5>Dark Loaded</h5>
+				<h4>Rs:450</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Choco Crackle.jpg" alt="Choco Crackle">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Choco Crackle</h5>
+				<h4>Rs:350</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro" onclick="window.location.href='sproduct.html';">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Red valvet Cheese.jpg" alt="Red Valvet Cheese">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Red Valvet Cheese</h5>
+				<h4>Rs:400</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+		</div>
+	</product1><br>
+	<pagination class="section-p1">
+	<a href="#">1</a>
+	<a href="#">2</a>
+	<a href="#"> --> </a>
+	</pagination>
+<br>
+	<newsletter class="section-p1 section-m1">
+	<div class="newstext">
+	<h4>Sign Up For Full Access</h4>
+	<p>Get E-mail updates about our latest shop and <span>Special Offers</span></p>
+	</div>
+	<div class="form">
+		<input type="text" placeholder="Your Email Address">
+		<button class="normal">Sign Up</button>
+	</div>
+	</div>
+	<footer class="section-p1">
+		<div class="col">
+		<img src="C:/Users/Anjali/Downloads/logo.jpeg" width="100px" height="100px" alt="Cake Shop Logo">
+	<h4>Contact</h4>
+	<p><strong>Address:</strong>Virar West,near viva college</p>
+	<p><strong>phone:</strong>+01 2222 333 444</p>
+	<p><strong>Open Hours:</strong>24/7hrs</p>
+	<div class="folow">
+		<h4>Follow us</h4>
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/follow.jpeg" width="200px" height="50px" alt="">
+
+		<div class="icon">
+		<i class="fab fa-facebook-f"></i>
+		<i class="fab fa-twitter"></i>
+		<i class="fab fa-instagram"></i>
+		<i class="fab fa-pinterest-p"></i>
+		<i class="fab fa-youtube"></i>
+		<p>&copy; Sweet Bites. All rights reserved.</p>
+		</div>
+	</div>
+	</div>
+	</footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+about us page:<html>
+<head>
+    <title>About Us - Sweet Delights Bakery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+        <div class="logo">
+            <img src="C:\Users\Anjali\Downloads\logo.jpeg" alt="Cake Shop Logo">
+        </div>
+            <nav><h3>Sweet Bites</h3>
+            <a href="index.html">Home</a>
+            <a href="product.html">Products</a>
+            <a class="active" href="about.html">About us</a>
+	    <a href="cart.html">Cart</a>
+            <a href="custom.html">Special Order</a>
+	    <a href="contact.html">Contact Us</a>
+        </nav>
+	</header>
+	<main>
+		<h2>Sweet Bites:The Taste of Heaven.Our Sweet Escape.</h2>
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/A9.jpg" width="100%" height="450px" alt="Cake Shop Logo">
+	<center><H1>Its Not About The Brand.Its The About The Taste</h1></center> 
+	</main>
+	<marquee behavior="scroll" bgcolor="#ccc" direction="left" scrollamount="5" width="100%" heigth="200px">
+    🎂 Welcome to Sweet Bites Bakery! 🎉 Indulge in our scrumptious cakes, pastries, and treats made with love and the finest ingredients. Your perfect cake awaits! 🍰
+</marquee>
+  <br><br><br>
+    <div class="container">
+        <section class="about-section">
+            <h2>About Us</h2>
+            <img src="C:\Users\Anjali\Downloads\shop.jpg" alt="Inside Sweet Delights Bakery">
+            <p><h2>Sweet Bites</h2>:The Taste of Heaven.Our Sweet Escape, where every cake is a masterpiece! Established in 2010, we have been serving our community with the finest baked goods made from the highest quality ingredients. Our bakery prides itself on delivering not just delicious cakes but also an experience that makes your special occasions unforgettable.</p>
+        </section>
+        <section class="about-section">
+            <h2>Our Mission</h2>
+            <p>At <i>Sweet Bites</i>, our mission is to bring joy to every celebration with our delectable and beautifully crafted cakes. We believe in the power of sweets to brighten up any day and are committed to offering a diverse selection of cakes that cater to all tastes and dietary preferences.</p>
+        </section>
+        <section class="about-section">
+            <h2>Meet the Team</h2>
+            <img src="C:\Users\Anjali\Downloads\staff.jpg" alt="The Sweet Bites Team">
+            <p>Our team is a group of passionate bakers and cake designers who are dedicated to their craft. From our head baker, Anurag, who has over 20 years of experience in the industry, to our talented cake decorators, everyone at Sweet Delights Bakery is here to ensure that every cake we create exceeds your expectations.</p>
+        </section>
+    </div>
+	<newsletter class="section-p1 section-m1">
+	<div class="newstext">
+	<h4>Sign Up For Full Access</h4>
+	<p>Get E-mail updates about our latest shop and <span>Special Offers</span></p>
+	</div>
+	<div class="form">
+		<input type="text" placeholder="Your Email Address">
+		<button class="normal">Sign Up</button>
+	</div>
+	</div>
+
+	<footer class="section-p1">
+		<div class="col">
+		<img src="C:/Users/Anjali/Downloads/logo.jpeg" width="100px" height="100px" alt="Cake Shop Logo">
+	<h4>Contact</h4>
+	<p><strong>Address:</strong>Virar West,near viva college</p>
+	<p><strong>phone:</strong>+01 2222 333 444</p>
+	<p><strong>Open Hours:</strong>24/7hrs</p>
+	<div class="folow">
+		<h4>Follow us</h4>
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/follow.jpeg" width="200px" height="50px" alt="">
+
+		<div class="icon">
+		<i class="fab fa-facebook-f"></i>
+		<i class="fab fa-twitter"></i>
+		<i class="fab fa-instagram"></i>
+		<i class="fab fa-pinterest-p"></i>
+		<i class="fab fa-youtube"></i>
+		</div>
+	
+        <p>&copy; Sweet Bites. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+ sproduct:<html>
+<head>
+    <title>Products - Cake Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="C:\Users\Anjali\Downloads\logo.jpeg" alt="Cake Shop Logo">
+        </div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="product.html">Products</a>
+            <a href="about.html">About us</a>
+	    <a href="cart.html">Cart</a>
+            <a href="custom.html">Special Order</a>
+	    <a href="contact.html">Contact Us</a>
+        </nav>
+    </header>
+	<prodetails class="section-p1">
+	<div class="single-pro-image">
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Choco Crackle.jpg" width="100%" id="MainImg"  alt="Choco Crackle">
+	</div>
+	<div class="single-pro-details">
+		<h6>Home</h6>
+		<h4>Choco Crackle</h4>
+		<h2>Rs:350</h2>
+		<select>
+		<option>Weight</option>
+		<option>1</option>
+		<option>2</option>
+		<option>3</option>
+		<option>4</option>
+		<option>5</option>
+		<option>6</option>
+		<option>7</option>
+		<option>8</option>
+		<option>9</option>
+		<option>10</option>
+		</select>
+		<input type="number" valye="1">
+		<button class="normal">Add to Cart</button>
+		<h4>Product Details</h4>
+<span>vhgfyurghioshfewiufhgreiuveiuhriugehjhguireghruibjibjvebjiebguirhvuorhruivbrvuir<br>bvruvbrvurbvuirvbruivbruivbruvibrvuirbvurbvuirburibvriuvbubvjirbvruivbdshjbiuerfbwui;chfewhf<br>qwejkblegfyegfygfyuefgeytftetyfeyuegfyuegfeyueuhbdhrbgcefy4784gdhfvbdhvyusfgefrxbcibutx8ytgxdeiynwiury<br>niizdwhxdneeth4ehfeiutyeufedjwihg3jgefjhebcjahuisyrghhjwdwjrgeuitejfbeuifg4utghjkfhefu4ytuiueg4dfet<br>rvuxetr3fwghfduyerbieyiubyrf784tr3tb3tb</span>
+	</div>
+	</prodetails>
+	<product1 class="section-p1">
+		<h2>Similars</h2>
+		<p>We Have different types of flavour & Cakes</p>
+		<div class="pro-container">
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Dark Loaded.jpg" alt="Dark Loaded">
+			<div class="des">
+				<span>Chocolate</span>
+				<h5>Dark Loaded</h5>
+				<h4>Rs:450</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Choco Crackle.jpg" alt="Choco Crackle">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Choco Crackle</h5>
+				<h4>Rs:350</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/pineapple.jpg" alt="pineapple">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Pineapple Cake</h5>
+				<h4>Rs:300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/Dark Loaded.jpg" alt="Dark Loaded">
+			<div class="des">
+				<span>Chocolate</span>
+				<h5>Dark Loaded</h5>
+				<h4>Rs:450</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+	<footer class="section-p1">
+		<div class="col">
+		<img src="C:/Users/Anjali/Downloads/logo.jpeg" width="100px" height="100px" alt="Cake Shop Logo">
+	<h4>Contact</h4>
+	<p><strong>Address:</strong>Virar West,near viva college</p>
+	<p><strong>phone:</strong>+01 2222 333 444</p>
+	<p><strong>Open Hours:</strong>24/7hrs</p>
+	<div class="folow">
+		<h4>Follow us</h4>
+		<div class="icon">
+		<i class="fab fa-facebook-f"></i>
+		<i class="fab fa-twitter"></i>
+		<i class="fab fa-instagram"></i>
+		<i class="fab fa-pinterest-p"></i>
+		<i class="fab fa-youtube"></i>
+		</div>
+	</div>
+	</div>
+	</footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+cart page:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart - Cake Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="C:/Users/Anjali/Downloads/logo.jpeg" alt="Cake Shop Logo">
+        </div>
+        <nav>
+            <h3>Sweet Bites</h3>
+            <a href="index.html">Home</a>
+            <a href="product.html">Products</a>
+            <a href="about.html">About us</a>
+            <a class="active" href="cart.html">Cart</a>
+            <a href="custom.html">Special Order</a>
+            <a href="contact.html">Contact Us</a>
+        </nav>
+    </header>
+    
+    <main>
+        <h1>Your Cart</h1>
+        <div id="cart-items"></div>
+        <div id="cart-total"></div>
+        <a href="checkout.html" class="btn">Proceed to Checkout</a>
+    </main>
+    
+    <footer class="section-p1">
+        <div class="col">
+            <img src="C:/Users/Anjali/Downloads/logo.jpeg" width="100px" height="100px" alt="Cake Shop Logo">
+            <h4>Contact</h4>
+            <p><strong>Address:</strong> Virar West, near viva college</p>
+            <p><strong>Phone:</strong> +01 2222 333 444</p>
+            <p><strong>Open Hours:</strong> 24/7hrs</p>
+            <div class="folow">
+                <h4>Follow us</h4>
+                <img src="C:/Users/Anjali/Desktop/Ecom/cake photos/follow.jpeg" width="200px" height="50px" alt="">
+                <div class="icon">
+                    <i class="fab fa-facebook-f"></i>
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-pinterest-p"></i>
+                    <i class="fab fa-youtube"></i>
+                    <p>&copy; Sweet Bites. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+special order page:<html>
+<head>
+    <title>Custom Cakes - Cake Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="C:\Users\Anjali\Downloads\logo.jpeg" alt="Cake Shop Logo">
+        </div>
+        <nav><h3>Sweet Bites</h3>
+            <a href="index.html">Home</a>
+            <a href="product.html">Products</a>
+            <a href="about.html">About us</a>
+	    <a href="cart.html">Cart</a>
+            <a class="active" href="custom.html">Special Order</a>
+	    <a href="contact.html">Contact Us</a>
+        </nav>
+    </header>
+    <main>
+	<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/A12.jpg" width="100%" height="400px" alt="">
+	<h2>Order Your Customize Cakes</h2>
+    </main>
+        <form-details>
+	<form>
+            <input type="text" placeholder="Your Name" required>
+	    <input type="number"  placeholder="Your Phone Number" required>
+            <input type="email" placeholder="Your Email Address" required>
+            <input type="text" placeholder="Your Cake Type(Photo cake etc)" required>
+            <input type="text" placeholder="Shape of your cake" required>
+            <input type="text" placeholder="Flavour" required>
+            <textarea id="message" placeholder="Provide instructions"></textarea>
+	    <label for="files">Upload photo of cake:</label>
+	    <input type="file" id="files" name="files" multiple>
+            <button class="normal">Submit Order</button>
+        </form>
+	<feature class="section-p1">
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f1.jpg" alt="free shipping">
+		<center><h6>Free Shipping</h6></center>
+		</div>
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f2.jpg" alt="free shipping">
+		<center><h6>Online Order</h6></center>
+		</div>
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f3.jpg" alt="free shipping">
+		<center><h6>Save Money</h6></center>
+		</div>
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f4.jpg" alt="free shipping">
+		<center><h6>24/7 Service</h6></center>
+		</div>
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f5.jpg" alt="free shipping" >
+		<center><h6>Happy Customer</h6></center>
+		</div>
+		<div class="fe-box">
+		<img src="C:/Users/Anjali/Downloads/f4.jpg" alt="free shipping">
+		<center><h6>Happy Customer</h6></center>
+		</div>
+
+	</feature>
+	</form-details>
+	<product1 class="section-p1">
+		<h2>Our Specials Made</h2>
+		<p>Here are some special order cakes made by Sweet Bites</p>
+		<div class="pro-container">
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C1.png" alt="pineapple">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:2200</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C2.jpg" alt="Dark Loaded">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1900</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C3.jpg" alt="Choco Crackle">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1800</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C4.jpg" alt="Red Valvet Cheese">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1600</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C5.jpg" alt="Strawberry">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1400</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C6.jpg" alt="Fresh mango">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1400</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C7.jpeg" alt="Black forest">
+			<div class="des">
+				<span>flavour</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1400</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+			<div class="pro">
+			<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/C8.jpg" alt="Creamy choco">
+			<div class="des">
+				<span>flavoured</span>
+				<h5>Sweet Bites Special</h5>
+				<h4>Rs:1300</h4>
+			</div>
+				<button="Shop"><b>Shop</b></button>
+			</div>
+
+		</div>
+	</product1>
+
+	<newsletter class="section-p1 section-m1">
+	<div class="newstext">
+	<h4>Sign Up For Full Access</h4>
+	<p>Get E-mail updates about our latest shop and <span>Special Offers</span></p>
+	</div>
+	<div class="form">
+		<input type="text" placeholder="Your Email Address">
+		<button class="normal">Sign Up</button>
+	</div>
+	</div>
+
+	<footer class="section-p1">
+		<div class="col">
+		<img src="C:/Users/Anjali/Downloads/logo.jpeg" width="100px" height="100px" alt="Cake Shop Logo">
+	<h4>Contact</h4>
+	<p><strong>Address:</strong>Virar West,near viva college</p>
+	<p><strong>phone:</strong>+01 2222 333 444</p>
+	<p><strong>Open Hours:</strong>24/7hrs</p>
+	<div class="folow">
+		<h4>Follow us</h4>
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/follow.jpeg" width="200px" height="50px" alt="">
+
+		<div class="icon">
+		<i class="fab fa-facebook-f"></i>
+		<i class="fab fa-twitter"></i>
+		<i class="fab fa-instagram"></i>
+		<i class="fab fa-pinterest-p"></i>
+		<i class="fab fa-youtube"></i>
+		</div>
+	
+        <p>&copy; Sweet Bites. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+contact us page:<html>
+<head>
+    <title>Contact - Cake Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="C:\Users\Anjali\Downloads\logo.jpeg" alt="Cake Shop Logo">
+        </div>
+        <nav><h3>Sweet Bites</h3>
+            <a href="index.html">Home</a>
+            <a href="product.html">Products</a>
+            <a href="about.html">About us</a>
+	    <a href="cart.html">Cart</a>
+            <a href="custom.html">Special Order</a>
+	    <a class="active" href="contact.html">Contact Us</a>
+        </nav>
+    </header>
+    <main>
+	<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/A13.jpg" width="100%" height="400px" alt="">
+    </main>
+        <contact-details class="section-p1" >
+	<div class="details">
+	<span>Get In Touch</span>
+	<h2>Visit One Of Our Branch Location Or Contact Us Today</h2>
+	<h3>Head Office</h3>
+	<div>
+	<li>Virar West,Near Viva College,Maharashtra India</li><br>
+	<li>SweetBites03@gmail.com</li><br>
+	<li>+01 2222 333 444</li><br>
+	<li>Open Hours: 24/7Hrs</li><br>
+	</div>
+	</div>
+	<div class="map">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.9415494818654!2d72.80233747426193!3d19.458086739868303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a9880f8ead03%3A0xcbf268e6f2506f8a!2sViva%20College!5e0!3m2!1sen!2sin!4v1726472809094!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	</div>
+	</contact-details>
+	<form-details>
+        <form action="">
+	<span>Leave A Message</span>
+	<h2>We Respect your thoughts</h2>
+        <input type="text" placeholder="Your Name">
+        <input type="email" placeholder="E-mail">
+        <input type="text" placeholder="Subject">
+        <textarea name="" cols="30" rows="10" placeholder="Your Message"></textarea>
+        <button class="normal">Send Message</button>
+        </form>
+	<div class="people">
+	<div>
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/p2.jpg" width="80px" height="80px" alt="">
+		<p><span>Abc</span>Manager<br>Phone: +000 123 000 77 88<br>Email:Abc03@gamil.com</p>
+	</div>
+
+	<div>
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/p2.jpg" width="80px" height="80px" alt="">
+		<p><span>Pqr</span>Chief Exective<br>Phone: +000 123 456 88 99<br>Email:pqr03@gamil.com</p>
+	</div>
+	<div>
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/p2.jpg" width="80px" height="80px" alt="">
+		<p><span>Xyz</span>Head Chef<br>Phone: +000 123 789 77 88<br>Email:Xyz03@gamil.com</p>
+	</div>
+	</div>	
+	</form-details>
+	<newsletter class="section-p1 section-m1">
+	<div class="newstext">
+	<h4>Sign Up For Full Access</h4>
+	<p>Get E-mail updates about our latest shop and <span>Special Offers</span></p>
+	</div>
+	<div class="form">
+		<input type="text" placeholder="Your Email Address">
+		<button class="normal">Sign Up</button>
+	</div>
+	</div>
+
+	<footer class="section-p1">
+		<div class="col">
+		<img src="C:/Users/Anjali/Downloads/logo.jpeg" width="100px" height="100px" alt="Cake Shop Logo">
+	<h4>Contact</h4>
+	<p><strong>Address:</strong>Virar West,near viva college</p>
+	<p><strong>phone:</strong>+01 2222 333 444</p>
+	<p><strong>Open Hours:</strong>24/7hrs</p>
+	<div class="folow">
+		<h4>Follow us</h4>
+		<img src="C:/Users/Anjali/Desktop/Ecom/cake photos/follow.jpeg" width="200px" height="50px" alt="">
+		<div class="icon">
+		<i class="fab fa-facebook-f"></i>
+		<i class="fab fa-twitter"></i>
+		<i class="fab fa-instagram"></i>
+		<i class="fab fa-pinterest-p"></i>
+		<i class="fab fa-youtube"></i>
+		</div>
+	
+        <p>&copy; Sweet Bites. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+stylesheet:.section-p1{
+    padding: 40px 80px;
+}
+.section-m1{
+    padding: 0px 40px;
+}
+
+button.normal{
+    font-size: 14px;
+    font-weigth: 600;
+    padding: 15px 30px;
+    color: #fff;
+    background-color: #088178;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: 0.2s;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fed1de;
+    padding: 5px 50px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.05);
+    z-index: 999;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+.logo img {
+    height: 60px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    transition: 0.3s ease;
+}
+
+nav a:hover,
+nav a.active  {
+    text-decoration: underline;
+    color: #818ea0;
+}
+
+main {
+    background-image: url("");
+    heigth: 90vh;
+    width: 90%;
+    background-size: cover;
+    background-position: top 25% right 0;
+    padding: 0 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+
+}
+main h2{
+    color: #a613c1;
+}
+main h1{
+    color: #a613c1;
+}
+
+feature {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap; 
+}
+
+feature .f-box{
+    width: 180px;
+    text-align: center;
+    padding: 25px 15px;
+    box-shadow: 20px 20px 34px rgba(0,0,0,0.03);
+    border: 1px solid #cc37d0;
+    border-radius: 4px;
+    margin: 15px0;    
+}
+
+feature .fe-box:hover {
+    box-shadow: 10px 10px 54px rgba(72,68,240,0.1);
+}
+
+feature .fe-box img{
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+feature .fe-box h6{
+    display: inline-block;
+    padding: 9px 8px 6px 8px;
+    text-align: center;
+    line-height: 1;
+    border-radius: 4px;
+    color: #088178;    
+    background-color: #fddde4;
+}
+product1{
+    text-align: center;
+}
+product1 .pro-container{
+    display: flex;
+    justify-conatiner: space between;
+    padding-top: 20px;
+    flex-wrap: wrap;
+}
+product1 .pro{
+    width: 23%;
+    min-width: 250px;
+    padding: 10px 12px;
+    border: 1px solid #cce7d0;
+    border-radius: 25px;
+    cursor: pointer;
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.02);
+    margin: 20px 0;
+}
+product1 .pro:hover{
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.06);
+}
+
+product1 .pro img{
+    width: 100%;
+    border-radius: 20px;
+}
+product1 .pro .des{
+    text-align: start;
+    padding: 10px 0;
+}
+product1 .pro .des h5{
+    color: #606063;
+    font-size: 14px;
+}
+product1 .pro .des h4{
+    padding-top: 7px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #088178;
+}
+product1 .pro .b{
+    padding: 4px;
+    text-align: center;
+    color: #088178;
+}
+
+newsletter{
+     display: flex;
+     justify-content: space-between;
+     flex-wrap: wrap;
+     align-items: center;
+     background-image: url();
+     background-repeat: no-repeat;
+     background-postion: 20% 30%;
+     background-color: #041e42;
+}
+newsletter h4{
+     font-size: 22px;
+     font-weigth: 700;
+     color: #fff;
+}
+newsletter p{
+     font-size: 14px;
+     font-weigth: 600;
+     color: #818ea0;
+}
+newsletter p span{
+     color: #ffbd27;
+}
+newsletter .form{
+     display: flex;
+     width: 40%;
+}
+newsletter input{
+     height: 3.125rem;
+     padding: 0 1.25em;
+     font-size: 14px;
+     width: 100%;
+     border: 1px solid transparent;
+     border-radius: 4px;
+     outline: none;
+}
+newsletter button{
+     background-color: #088178;
+     color: #fff;
+     whitespace: nowrap;
+}
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    width: 100%;
+    bottom: 0;
+   }
+
+
+/*product page*/
+
+pagination {
+    text-align: center;
+}
+pagination a{
+    text-decoration: none;
+    background-color: #088178;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
+/*single product*/
+
+prodetails{
+    display: flex;
+    margin-top: 20px;
+}
+
+prodetails .single-pro-details{
+    width: 50%;
+    padding-top: 30px;
+}
+prodetails .single-pro-details select{
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+prodetails .single-pro-details input{
+    width: 50px;
+    height: 47px;
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+prodetails .single-pro-details button{
+    background: #088178;
+    color: #fff;
+}
+prodetails .single-pro-details input:focus{
+    outline: none;
+}
+prodetails .single-pro-details span{
+    line-height: 25px;
+}
+
+prodetails .single-pro-image{
+    width: 40%;
+    margin-right: 50px;
+}
+banner h4{
+    color: #465b52;
+    
+}
+banner button:hover{
+    background-color: #088178;
+    color:#000;
+}
+ 
+.container {
+    background-color: #fae1f0;
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 2px 0;
+        }
+.about-section {
+    background: #fae1f0;
+    padding: 2px;
+    margin-bottom: 1px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+.about-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+        }
+.h2 {
+    color: #333;
+        }
+
+/*contact page*/
+
+contact-details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+contact-details details{
+    width: 40%;
+}
+contact-details .details span,
+form-details form span{
+    font-size: 22px;
+}
+contact-details .details h2,
+form-details form h2{
+    font-size: 26px;
+    line-height: 35px;
+    padding: 20px 0;
+}
+
+contact-details .details h3{
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+contact-details .map{
+    width: 55%;
+    height: 400px;   
+}
+contact-details .map iframe{
+    width: 100%;
+    height: 100%;
+}
+form-details{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    padding: 80px;
+    border: 1px solid #e1e1e1;
+}
+form-details form{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+form-details form input,
+form-details form textarea{
+    width: 100%;
+    padding: 12px 15px;
+    outline: none;
+    margin-bottom: 20px;
+    border:n1px solid #e1e1e1;
+}
+form-details form button{
+    background-color: #088178;
+    color: #fff;
+}
+form-details .people div{
+    display: flex;
+    align-items: flex-start;
+    padding-bottom: 25px;
+}  
+form-details .people div img{
+    object-fit: cover;
+    margin-right: 15px;
+}
+form-details .people div p{
+    margin: 0;
+    fotn-size: 13px;
+    line-heigth: 25px;
+}
+form-details .people div p span{
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+} please provide me a suitable js code for the whole websites above given in manner that should be responsive and work properly from adding to a cart to proceed to payment
